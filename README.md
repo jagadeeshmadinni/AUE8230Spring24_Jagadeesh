@@ -18,4 +18,5 @@ catkin_ws
             ---CMakeLists.txt
             ---package.xml
             ---README.md
+The giffy recordings are located in the videos directory.
         

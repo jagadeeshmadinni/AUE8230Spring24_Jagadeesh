@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="turtlesim" type="turtlesim_node" name="turtlesim_node"/>
+	<node name = "loopy_robot" pkg="loop_task" type = "square_openloop.py" output="screen"></node>
+</launch>

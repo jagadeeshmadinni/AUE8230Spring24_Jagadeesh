@@ -1,0 +1,8 @@
+prefix=/home/beetrootsalad/git_ws/assignment2_ws/install
+
+Name: loop_task
+Description: Description of loop_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
